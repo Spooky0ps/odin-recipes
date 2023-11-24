@@ -1,7 +1,6 @@
 .format {
     font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
-    color: white;
     height: 5%;
 }
 
@@ -18,3 +17,9 @@
 .format.cake {
     background-color: rgb(232, 229, 229);
 }
+
+a {
+    color: black;
+}
+/* I can specify the type selectors instead of class selectors */
+
