@@ -1,0 +1,20 @@
+.format {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    height: 5%;
+}
+
+.format.cookie {
+    background-color: rgb(241, 209, 151);
+    margin-bottom: 5px;
+}
+
+.format.brownie {
+    background-color: rgb(197, 134, 134);
+    margin-bottom: 5px;
+}
+
+.format.cake {
+    background-color: rgb(232, 229, 229);
+}
